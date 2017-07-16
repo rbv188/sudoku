@@ -6,3 +6,5 @@ To run the script,
 >python sudoku.py "location to txt file" n
 
 Replace n with y if you want to print the solved puzzle.
+
+Sudoku strings can be obtained [here](http://forum.enjoysudoku.com/patterns-game-results-t6291.html).
